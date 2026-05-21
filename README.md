@@ -30,7 +30,7 @@ public class Sujal {
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🏥 Online Medical Laboratory Management System
 
@@ -58,6 +58,25 @@ A full-stack, role-based web platform that connects patients with medical labs �
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+
+---
+
+### 🎬 YoutubeTools
+
+A lightweight Spring Boot web app that gives you SEO tags, thumbnail extraction, and full video details for any YouTube video — all in one place.
+
+**What it does:**
+- 🏷️ **SEO Tag Generator** — enter a video title, instantly get tags from similar top-ranking videos plus related ones for broader coverage, with a one-click copy button
+- 🖼️ **Thumbnail Extractor** — paste any YouTube URL or video ID to preview and download the highest quality thumbnail
+- 📋 **Video Data Retriever** — fetches full metadata: title, channel, publish date, description, and all tags in a clean dark/light mode UI
+
+**Tech Stack:**
+
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![YouTube API](https://img.shields.io/badge/YouTube_Data_API_v3-FF0000?style=flat-square&logo=youtube&logoColor=white)
 
 ---
 
@@ -105,6 +124,7 @@ A full-stack, role-based web platform that connects patients with medical labs �
 ## 🛣️ Where I'm Headed
 
 - [x] Build a complete full-stack web application from scratch
+- [x] Build a Spring Boot project with external API integration
 - [ ] Learn Spring Boot deeply & build a REST API project
 - [ ] Learn Spring Security & JWT authentication
 - [ ] Get comfortable with Docker basics
