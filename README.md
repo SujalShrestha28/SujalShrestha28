@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-shrestha-a12b67409/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sujalstha_28/)
-[![Profile Views](https://komarev.com/ghpvc/?username=SujalShrestha28&style=flat-square&color=0A66C2)](https://github.com/SujalShrestha28)
+[![Profile Views](https://komarev.com/ghpvc/?username=SujalShrestha-dev&style=flat-square&color=0A66C2)](https://github.com/SujalShrestha-dev)
 
 </div>
 
@@ -111,11 +111,11 @@ A lightweight Spring Boot web app that gives you SEO tags, thumbnail extraction,
 
 <div align="center">
 
-![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujalShrestha28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujalShrestha-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujalShrestha28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujalShrestha-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SujalShrestha28&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SujalShrestha-dev&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
