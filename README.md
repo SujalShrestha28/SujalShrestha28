@@ -111,12 +111,9 @@ A lightweight Spring Boot web app that gives you SEO tags, thumbnail extraction,
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SujalShrestha-dev&theme=tokyonight&no-bg=true&no-frame=true&column=6)
-
-![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujalShrestha-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujalShrestha-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=SujalShrestha-dev&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SujalShrestha-dev&theme=tokyonight&no-bg=true&no-frame=true&column=6)
 
 </div>
 ---
