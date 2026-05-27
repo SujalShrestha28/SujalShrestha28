@@ -115,9 +115,6 @@ A lightweight Spring Boot web app that gives you SEO tags, thumbnail extraction,
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SujalShrestha-dev&theme=tokyonight&no-bg=true&no-frame=true&column=6)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SujalShrestha-dev)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SujalShrestha-dev&theme=onedark)
 
 </div>
 ---
