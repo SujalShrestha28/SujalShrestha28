@@ -80,6 +80,29 @@ A lightweight Spring Boot web app that gives you SEO tags, thumbnail extraction,
 
 ---
 
+### 🛍️ StoreFront
+
+A full-stack e-commerce product browsing app with a Spring Boot REST API backend and a React + Vite frontend.
+
+**What it does:**
+- 📦 **40 seeded products** across 6 categories — Electronics, Clothing, Books, Home & Kitchen, Sports, Beauty
+- 🔍 **Live search** — filter products by name in real time
+- 🏷️ **Category filter** — browse by category via dropdown
+- 💰 **Price sorting** — low to high or high to low
+- 🖼️ **Product cards** — image, category badge, description, price, and Add to Cart button
+
+**Tech Stack:**
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
+
 ## 🧰 Tech Stack
 
 **Backend**
@@ -98,6 +121,7 @@ A lightweight Spring Boot web app that gives you SEO tags, thumbnail extraction,
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Tools**
@@ -115,16 +139,16 @@ A lightweight Spring Boot web app that gives you SEO tags, thumbnail extraction,
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SujalShrestha-dev&theme=tokyonight&no-bg=true&no-frame=true&column=6)
 
-
 </div>
+
 ---
 
 ## 🛣️ Where I'm Headed
 
 - [x] Build a complete full-stack web application from scratch
 - [x] Build a Spring Boot project with external API integration
-- [ ] Learn Spring Boot deeply & build a REST API project
-- [ ] Learn Spring Security & JWT authentication
+- [x] Learn Spring Boot deeply & build a REST API project
+- [x] Learn Spring Security & JWT authentication
 - [ ] Get comfortable with Docker basics
 - [ ] Land a backend internship
 - [ ] Contribute to an open source Java project
