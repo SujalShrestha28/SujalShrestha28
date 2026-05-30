@@ -159,7 +159,7 @@ A full-stack e-commerce product browsing app with a Spring Boot REST API backend
 
 Got feedback on my code? Working on something interesting? Just want to talk backend?
 
-**→ [linkedin.com/in/sujal-shrestha-a12b67409](https://www.linkedin.com/in/sujal-shrestha-a12b67409/)**
+**→ [linkedin.com/in/sujal-shrestha-dev](https://www.linkedin.com/in/sujal-shrestha-dev/)**
 
 ---
 
