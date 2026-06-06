@@ -6,9 +6,12 @@
 
 *Building things, breaking things, learning from both.*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://sujalshrestha-dev.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-shrestha-a12b67409/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sujalstha_28/)
 [![Profile Views](https://komarev.com/ghpvc/?username=SujalShrestha-dev&style=flat-square&color=0A66C2)](https://github.com/SujalShrestha-dev)
+
+### 🌐 [sujalshrestha-dev.github.io/portfolio](https://sujalshrestha-dev.github.io/portfolio/)
 
 </div>
 
@@ -159,7 +162,7 @@ A full-stack e-commerce product browsing app with a Spring Boot REST API backend
 
 Got feedback on my code? Working on something interesting? Just want to talk backend?
 
-**→ [linkedin.com/in/sujal-shrestha-dev](https://www.linkedin.com/in/sujal-shrestha-dev/)**
+**→ [Portfolio](https://sujalshrestha-dev.github.io/portfolio/) · [linkedin.com/in/sujal-shrestha-dev](https://www.linkedin.com/in/sujal-shrestha-dev/)**
 
 ---
 
